@@ -1,2 +1,2 @@
-# Default cleanflight settings for Eachine-e010s 65mm Micfro FPV Racing Quadcopter with F3 Brush Flight 
+# Default cleanflight settings for Eachine-e010s 65mm Micro FPV Racing Quadcopter with F3 Brush Flight 
 Controller.
